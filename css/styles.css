@@ -1,0 +1,161 @@
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+  text-align: left;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+p {
+  color: gray;
+}
+
+.footer-p
+{
+  color: black;
+}
+/* navegation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-item {
+  padding-right: 20%;
+}
+
+/* Download Button */
+.download-button {
+  margin: 5% 3% 5% 0%;
+}
+
+/* Title image */
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+/* <!-- Features --> */
+#features {
+  padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+
+.features-images {
+  margin-bottom: 5%;
+}
+
+.features-row {
+  padding: 3%;
+  text-align: center;
+}
+
+/* Testimonials */
+#testimonials
+{
+  padding:7% 15%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: white;
+}
+
+.testimonial-image
+{
+  width: 10%;
+  border-radius: 100%;
+  margin: 2px;
+}
+
+#press
+{
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-image
+{
+  margin: 20px 70px 15px;
+}
+
+/* Pricing */
+#pricing
+{
+  padding: 100px;
+  text-align: center;
+}
+
+.card
+{
+  border: 2px solid;
+}
+
+/* Call to Action */
+#cta
+{
+  text-align: center;
+  padding: 30px 0px 30px 0px;
+  background-color: #ff4c68;
+}
+
+.cta-p
+{
+  padding-top: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+
+.cta-a
+{
+  padding-left: 2rem;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+/* Footer */
+#footer
+{
+  text-align: center;
+  background-color: #ff4c68;
+  margin-left: auto;
+}
+
+.footer-p
+{
+  margin: 0;
+  padding-bottom: 16px;
+}

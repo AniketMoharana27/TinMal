@@ -7,6 +7,22 @@ body
   font-weight: normal;
 }
 
+::-webkit-scrollbar
+{
+  width: 12px;
+  background: #D3D3D3;
+}
+
+::-webkit-scrollbar-thumb
+{
+  background: #939799;
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover
+{
+  background: gray;
+}
+
 .top-container
 {
   background-color: powderblue;

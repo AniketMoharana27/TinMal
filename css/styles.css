@@ -88,8 +88,6 @@ p {
 #features {
   padding: 7% 15%;
   background-color: white;
-  position: relative;
-  z-index: 1;
 }
 
 .features-images {

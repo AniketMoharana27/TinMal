@@ -94,11 +94,22 @@ p {
   color: white;
 }
 
+a:hover
+{
+  color: black;
+}
+
 .testimonial-image
 {
   width: 10%;
   border-radius: 100%;
   margin: 2px;
+}
+
+.testimonials-a
+{
+  text-decoration: none;
+  color: white;
 }
 
 #press
@@ -139,13 +150,6 @@ p {
   color: black;
 }
 
-.cta-a
-{
-  padding-left: 2rem;
-  text-decoration: none;
-  font-family: 'Montserrat', sans-serif;
-  color: black;
-}
 /* Footer */
 #footer
 {
